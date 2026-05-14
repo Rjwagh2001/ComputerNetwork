@@ -11,12 +11,13 @@ That is why we need to pay money to use the internet.
 
 ## 🌍 How Internet Started
 
-- The internet started as a project called **ARPANET** in the late 1960s by the US military.  
-- The main goal was to connect computers so they could share information even during emergencies.  
-- Initially, only a few computers in universities and research centers were connected.  
-- Over time, more networks joined, creating a **network of networks**.  
-- In the 1980s, **TCP/IP** was introduced, which became the standard way computers communicate.  
-- In 1989, **Tim Berners-Lee** created the **World Wide Web (WWW)**, making the internet easy to use.  
-- After that, websites and browsers started growing quickly.  
-- In the 1990s, the internet became available to the public.  
-- Today, the internet connects billions of devices worldwide and is used everywhere.  
+- The internet started as a small project called **ARPANET** in the late 1960s.  
+- It was created to connect computers so they could share information easily.  
+- At first, only a few computers in universities were connected.  
+- Slowly, more computers and networks joined together.  
+- This created a **network of networks**, which we now call the internet.  
+- In the 1980s, **TCP/IP** was introduced to help computers communicate properly.  
+- In 1989, **Tim Berners-Lee** created the **World Wide Web (WWW)**.  
+- This made the internet easy for normal people to use.  
+- In the 1990s, the internet became public.  
+- Today, billions of devices are connected to the internet worldwide.  
