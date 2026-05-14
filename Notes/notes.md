@@ -49,3 +49,46 @@ That is why we need to pay money to use the internet.
 
 👉 In short:  
 Protocol is the **rule book** that helps computers talk properly over the internet.  
+
+## 🌐 What is World Wide Web (WWW) and Why It Came
+
+- The **World Wide Web (WWW)** is a system of websites and pages that we access using the internet.  
+- It helps us open and see content like text, images, videos using a browser (Chrome, Edge).  
+
+### 📌 Why WWW Came
+
+- Earlier, computers were connected, but it was **very difficult to access information**.  
+- There was no simple way to open documents or links.  
+- If someone shared a file, others could not easily open related references or links.  
+
+### ✅ Simple Example (Your Understanding)
+
+- Imagine someone shares a document with reference links.  
+- Earlier → You could not click and open those links easily.  
+- After WWW → You can just click the link and directly open the page.  
+
+### 🔑 What WWW Did
+
+- Made the internet **easy to use for normal people**  
+- Introduced **websites and clickable links (URLs)**  
+- Connected documents using **hyperlinks**
+
+👉 In short:  
+WWW made the internet user-friendly by allowing us to **open, browse, and connect information easily**.
+
+## 🌐 How People Accessed Internet Before WWW
+
+- Before WWW, people used the internet in a **very technical way**.  
+- They had to type **complex commands** to access files or data.  
+- There were no websites, no clicking links, and no browsers like Chrome.  
+- People used tools like **FTP (File Transfer)** to download files.  
+- They also used **Telnet** to connect to other computers manually.  
+- Everything was mostly **text-based**, no images or design.  
+
+### ✅ Simple Example
+
+- Earlier → You need to know the exact location and type commands to get a file.  
+- Now (after WWW) → You just click a link and open it easily.  
+
+👉 In short:  
+Before WWW, using the internet was difficult and only for technical people. WWW made it simple for everyone.  
